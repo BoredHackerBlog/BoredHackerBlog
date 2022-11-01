@@ -14,6 +14,10 @@ logdetectionlab - https://github.com/BoredHackerBlog/LogDetectionLab - Vagrant A
 
 littleshot - https://github.com/BoredHackerBlog/littleshot - Tool similar to urlscan for screenshotting sites and having a searchable metadata database
 
+yara_urlscanner - https://github.com/BoredHackerBlog/yara_urlscanner - similar to littleshot but only scans html with yara
+
+Dashboard from yara urlscanner can be found here: https://cloud.community.humio.com/shared/dashboards?token=RsUNDzOHEOcL0Q26WYFegOau&theme=dark
+
 portwatch2 - https://github.com/BoredHackerBlog/portwatch2 - docker container that periodically nmaps specified assets and provides alerts on changes
 
 cli_loganalysis - https://github.com/BoredHackerBlog/cli_loganalysis - notes and guide on using command line tools to do log analysis
