@@ -1,31 +1,25 @@
 ### Hi there 👋
 
-Blog: http://boredhackerblog.info
+📝 Blog: http://boredhackerblog.info 
 
-Notes (unmaintained): https://boredhackerblog.github.io/
-
-Procsearch - search for malware samples based on relational process and process commandline search - https://procsearch.appdev.cyou/
+🗒️ Notes (unmaintained): https://boredhackerblog.github.io/
 
 ### Projects:
 
-vmexec - https://github.com/BoredHackerBlog/vmexec - Uploads and executes files in virtual machine similar to malware sandbox
+📦 vmexec - https://github.com/BoredHackerBlog/vmexec - Uploads and executes files in virtual machine similar to malware sandbox
 
-pins - https://github.com/BoredHackerBlog/pins - dockerized raspberry pi network sensor
+🕸️ pins - https://github.com/BoredHackerBlog/pins - dockerized raspberry pi network sensor
 
-logdetectionlab - https://github.com/BoredHackerBlog/LogDetectionLab - Vagrant AD Lab builder for log-based detection research and development
+🕵️ logdetectionlab - https://github.com/BoredHackerBlog/LogDetectionLab - Vagrant AD Lab builder for log-based detection research and development
 
-littleshot - https://github.com/BoredHackerBlog/littleshot - Tool similar to urlscan for screenshotting sites and having a searchable metadata database
+🖼️ littleshot - https://github.com/BoredHackerBlog/littleshot - Tool similar to urlscan for screenshotting sites and having a searchable metadata database
 
-yara_urlscanner - https://github.com/BoredHackerBlog/yara_urlscanner - similar to littleshot but only scans html with yara
+🔍 yara_urlscanner - https://github.com/BoredHackerBlog/yara_urlscanner - similar to littleshot but only scans html with yara
 
 Dashboard from yara urlscanner can be found here: https://cloud.community.humio.com/shared/dashboards?token=RsUNDzOHEOcL0Q26WYFegOau&theme=dark
 
-URLScan results from yara_urlscanner - opendir https://urlscan.io/search/#task.tags%3A(yara%20AND%20opendir) 
+🔎 portwatch2 - https://github.com/BoredHackerBlog/portwatch2 - docker container that periodically nmaps specified assets and provides alerts on changes
 
-phishing https://urlscan.io/search/#task.tags%3A(yara%20AND%20phishing)
+🪵 cli_loganalysis - https://github.com/BoredHackerBlog/cli_loganalysis - notes and guide on using command line tools to do log analysis
 
-portwatch2 - https://github.com/BoredHackerBlog/portwatch2 - docker container that periodically nmaps specified assets and provides alerts on changes
-
-cli_loganalysis - https://github.com/BoredHackerBlog/cli_loganalysis - notes and guide on using command line tools to do log analysis
-
-homelabsecuritymonitoring - https://boredhackerblog.github.io/homelabsecuritymonitoring/ - notes on homelab security monitoring/log collection with humio
+🕸️ homelabsecuritymonitoring - https://boredhackerblog.github.io/homelabsecuritymonitoring/ - notes on homelab security monitoring/log collection with humio
