@@ -4,6 +4,8 @@ Blog: http://boredhackerblog.info
 
 Notes (unmaintained): https://boredhackerblog.github.io/
 
+Procsearch - search for malware samples based on relational process and process commandline search - https://procsearch.appdev.cyou/
+
 ### Projects:
 
 vmexec - https://github.com/BoredHackerBlog/vmexec - Uploads and executes files in virtual machine similar to malware sandbox
@@ -17,6 +19,10 @@ littleshot - https://github.com/BoredHackerBlog/littleshot - Tool similar to url
 yara_urlscanner - https://github.com/BoredHackerBlog/yara_urlscanner - similar to littleshot but only scans html with yara
 
 Dashboard from yara urlscanner can be found here: https://cloud.community.humio.com/shared/dashboards?token=RsUNDzOHEOcL0Q26WYFegOau&theme=dark
+
+URLScan results from yara_urlscanner - opendir https://urlscan.io/search/#task.tags%3A(yara%20AND%20opendir) 
+
+phishing https://urlscan.io/search/#task.tags%3A(yara%20AND%20phishing)
 
 portwatch2 - https://github.com/BoredHackerBlog/portwatch2 - docker container that periodically nmaps specified assets and provides alerts on changes
 
