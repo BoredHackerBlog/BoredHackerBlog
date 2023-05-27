@@ -4,7 +4,9 @@
 
 🗒️ Notes (unmaintained): https://boredhackerblog.github.io/
 
-🖥️ Current project - ProcSearch - https://procsearch.appdev.cyou/ - Query Process data from Malware Sandbox executions 
+🖥️ ~~Current project - ProcSearch - https://procsearch.appdev.cyou/ - Query Process data from Malware Sandbox executions~~
+
+ProcSearch code: https://gist.github.com/BoredHackerBlog/ee35b467389b66728799e259937b2b36
 
 ### Projects:
 
