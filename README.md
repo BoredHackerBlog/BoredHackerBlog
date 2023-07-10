@@ -25,3 +25,7 @@ ProcSearch code: https://gist.github.com/BoredHackerBlog/ee35b467389b66728799e25
 🪵 cli_loganalysis - https://github.com/BoredHackerBlog/cli_loganalysis - notes and guide on using command line tools to do log analysis
 
 🕸️ homelabsecuritymonitoring - https://boredhackerblog.github.io/homelabsecuritymonitoring/ - notes on homelab security monitoring/log collection with humio
+
+
+
+MITRE ATTACK Windows Events logs (XML) - https://github.com/BoredHackerBlog/mitre_attack_xml_eventlogs/
