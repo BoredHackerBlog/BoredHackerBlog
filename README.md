@@ -26,6 +26,6 @@ ProcSearch code: https://gist.github.com/BoredHackerBlog/ee35b467389b66728799e25
 
 🕸️ homelabsecuritymonitoring - https://boredhackerblog.github.io/homelabsecuritymonitoring/ - notes on homelab security monitoring/log collection with humio
 
+🪟 remotebrowserrunner - https://github.com/BoredHackerBlog/remotebrowserrunner - Python Flask project that spins up a browser container for a defined amount of time
 
-
-MITRE ATTACK Windows Events logs (XML) - https://github.com/BoredHackerBlog/mitre_attack_xml_eventlogs/
+🪵 MITRE ATTACK Windows Events logs (XML) - https://github.com/BoredHackerBlog/mitre_attack_xml_eventlogs/
